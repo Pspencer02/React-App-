@@ -1,0 +1,48 @@
+/* Style for the login form container */
+.login-form {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+/* Style for the login heading */
+.login-heading {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Style for labels */
+label {
+  display: block;
+  font-weight: bold;
+}
+
+/* Style for inputs */
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Style for the login button */
+.login-button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #012721;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.login-button:hover {
+  background-color: #3a3f44;
+}
+  

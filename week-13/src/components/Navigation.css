@@ -1,0 +1,19 @@
+.navbar {
+    background-color: #1b7566;
+    overflow: hidden;
+  }
+  
+  .nav-link {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+  }
+  
+  .nav-link:hover {
+    background-color: #033107;
+    color: black;
+  }
+  
